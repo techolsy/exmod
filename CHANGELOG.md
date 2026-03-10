@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.2.1] - 2026-03-10
+### Changed
+* techolsy.integration.nftables_raw
+  * Show diff when using --diff
+
 ## [0.2.0] - 2026-03-09
 
 ### Added
