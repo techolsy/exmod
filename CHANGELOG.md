@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.2.0] - 2026-03-09
+
+### Added
+* techolsy.integration.nftables_raw
+
 ## [0.1.2] - 2026-01-16
 
 ### Changed
