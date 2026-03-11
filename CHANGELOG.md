@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.3.1] - 2026-03-11
+### Changed
+* techolsy.integration.nftables_raw
+  * find path for nft
+
 ## [0.3.0] - 2026-03-11
 ### Added
 * techolsy.integration.systemd_info
