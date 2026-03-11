@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.3.0] - 2026-03-11
+### Added
+* techolsy.integration.systemd_info
+
 ## [0.2.1] - 2026-03-10
 ### Changed
 * techolsy.integration.nftables_raw
