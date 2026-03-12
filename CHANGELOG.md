@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.4.0] - 2026-03-12
+### Added
+* techolsy.integration.apt_package_facts
+
 ## [0.3.1] - 2026-03-11
 ### Changed
 * techolsy.integration.nftables_raw
