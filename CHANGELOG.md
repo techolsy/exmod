@@ -1,6 +1,11 @@
 # Changelog
 
-## [0.4.1] - 2025-03-14
+## [0.4.2] - 2026-04-03
+### Changed
+* techolsy.exmod.systemd_info
+  * Fixed module name in docs
+
+## [0.4.1] - 2026-03-14
 ### Changed
 * renamed project from integration to exmod
 
