@@ -1,7 +1,7 @@
 ---
 namespace: techolsy
 name: exmod
-version: 0.4.1
+version: 0.4.2
 readme: README.md
 authors:
   - "Alexander Olsson <alexander@techolsy.eu>"
